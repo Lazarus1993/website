@@ -23,6 +23,18 @@
   color: #61dafb;
 }
 
+.Typist {
+  font-size: 500%;
+}
+#hidden {
+  font-size: 500%;
+}
+.vertical-timeline-element-date {
+  color: #00ff9c;
+}
+.vertical-timeline::before {
+  background: #ff4081;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

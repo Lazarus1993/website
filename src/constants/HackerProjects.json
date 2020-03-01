@@ -1,0 +1,18 @@
+[
+  {
+    "Machine": "Sieve app",
+    "Description": "SQL injection, Directory traversal, Insecure Content Provider access, Authention bypass, Data leakage"
+  },
+  {
+    "Machine": "Necromancer",
+    "Description": "The Necromancer boot2root box was created for a recent SecTalks Brisbane CTF competition. There are 11 flags to collect on your way to solving the challenging, and the difficulty level is considered as beginner. The end goal is simple... destroy The Necromancer!"
+  },
+  {
+    "Machine": "Mr-Robot",
+    "Description": "Based on the show, Mr. Robot. This VM has three keys hidden in different locations. Your goal is to find all three. Each key is progressively difficult to find. The VM isn't too difficult. There isn't any advanced exploitation or reverse engineering. The level is considered beginner-intermediate."
+  },
+  {
+    "Machine": "Brainpan",
+    "Description": "Goal is to break in and get root access."
+  }
+]

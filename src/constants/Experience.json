@@ -1,0 +1,23 @@
+[
+  {
+    "Position": "Associate Cloud Application Development",
+    "Company": "East West Bank",
+    "Date": "Jul 2019 - Present",
+    "Location": "Palo Alto, California, USA",
+    "Description": "Worked on 2 projects: 1. Server Side Rendered React App, reduced the size of Bundle.js through compression. 2. Backend NodeJS Development, developed eager loading:- (Fetching data from downstream applications before frontend makes the call and store it in redis cache. Implementing locking for redis to avoid inconsistency through race condition.)"
+  },
+  {
+    "Position": "Application Development Analyst",
+    "Company": "Accenture",
+    "Date": "Dec 2016 - Jan 2017",
+    "Location": "Mumbai, Maharashtra, India",
+    "Description": "Mentoring and Knowledge Transfer sessions to juniors. Automating workcycle/processes that are currently manual."
+  },
+  {
+    "Position": "Associate Software Engineer",
+    "Company": "Accenture",
+    "Date": "Aug 2015 - Dec 2016",
+    "Location": "Mumbai, Maharashtra, India",
+    "Description": "Training done in Java Spring, Hibernate and Maven. Joined Aristos-GCAS Project as a Full Stack Developer. Technology used: Frontend: Java Swing and Backend: Java Spring MVC. Implemented 10 Change Requests from Clients. Fixed 60 Defect Requests Attend SCRUM meetings Documentation of changes made in the system Coordinate Testing with the Test Team Coordinate Deployment with the Infrastructure team"
+  }
+]
