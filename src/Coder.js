@@ -51,7 +51,7 @@ export default class Coder extends Component {
     ));
     return (
       <div>
-        <Header text={"I am a coder"} mode={"coder"} />
+        <Header text={"I am a developer"} mode={"coder"} />
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"

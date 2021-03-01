@@ -71,7 +71,7 @@ export default class Hacker extends Component {
     ));
     return (
       <div>
-        <Header text={"I am a hacker"} mode={"hacker"} />
+        <Header text={"I am a security analyst"} mode={"hacker"} />
         <VerticalTimeline>
           {hackerProjects}
           {hackerCerts}
